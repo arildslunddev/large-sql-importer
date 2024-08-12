@@ -1,0 +1,17 @@
+{
+  "name": "large-sql-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "mysql2": "^3.11.0",
+    "readline": "^1.3.0"
+  }
+}
